@@ -1,0 +1,20 @@
+## missi_phone_cn_watermark-user 14 UKQ1.230804.001 23.9.28 release-keys
+- Manufacturer: xiaomi
+- Platform: taro
+- Codename: diting
+- Brand: Xiaomi
+- Flavor: missi_phone_cn_watermark-user
+- Release Version: 14
+- Kernel Version: 5.10.177
+- Id: UKQ1.230804.001
+- Incremental: 23.9.28
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: zh-CN
+- Screen Density: undefined
+- Fingerprint: Xiaomi/diting/diting:12/SKQ1.230401.001/23.9.28:user/release-keys
+- OTA version: 
+- Branch: missi_phone_cn_watermark-user-14-UKQ1.230804.001-23.9.28-release-keys
+- Repo: xiaomi_diting_dump
